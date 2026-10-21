@@ -175,3 +175,7 @@ $RECYCLE.BIN/
 # the project root. Anchored so a reports/ folder elsewhere stays tracked.
 /reports/
 /test-results/
+
+# === Web build (CENTRAL 171) ===
+node_modules/
+production/qa/e2e-tmp/

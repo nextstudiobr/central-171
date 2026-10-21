@@ -1,0 +1,261 @@
+{
+  "results": [
+    {
+      "name": "Inicialização: tela de título aparece",
+      "ok": true,
+      "detail": "8054 ms"
+    },
+    {
+      "name": "Renderização: WebGL ativo com GPU",
+      "ok": true,
+      "detail": "ANGLE (AMD, Radeon RX550/550 Series (0x0000699F) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    },
+    {
+      "name": "Renderização: cena desenhada (draw calls > 50)",
+      "ok": true,
+      "detail": "455 draw calls, 128524 triângulos"
+    },
+    {
+      "name": "Desempenho: FPS medido em 1280×720 (tela de título, câmera orbitando)",
+      "ok": true,
+      "detail": "68 FPS, escala 1.00, 428 draw calls"
+    },
+    {
+      "name": "Campanha: dia 1 em andamento",
+      "ok": true,
+      "detail": "modo=play dia=1"
+    },
+    {
+      "name": "Áudio: contexto Web Audio ativo após o clique",
+      "ok": true,
+      "detail": "estado=running; voz pt-BR local=sim (Microsoft Daniel - Portuguese (Brazil) (local), Microsoft Maria - Portuguese (Brazil) (local))"
+    },
+    {
+      "name": "Câmera: arrastar o mouse gira a visão",
+      "ok": true,
+      "detail": "yaw 0.88 → 1.32"
+    },
+    {
+      "name": "Movimento: W anda para frente",
+      "ok": true,
+      "detail": "3.24 m em 1,2 s"
+    },
+    {
+      "name": "Movimento: D anda para o lado",
+      "ok": true,
+      "detail": "Δx 1.20 m"
+    },
+    {
+      "name": "Colisão: não atravessa a parede leste",
+      "ok": true,
+      "detail": "x final 10.70 (parede em 11)"
+    },
+    {
+      "name": "Colisão: não atravessa a mesa",
+      "ok": true,
+      "detail": "z final 1.68 (borda da mesa em 1,38)"
+    },
+    {
+      "name": "Interação: mira na cadeira mostra o aviso",
+      "ok": true,
+      "detail": "alvo=chair"
+    },
+    {
+      "name": "Estação: E senta na cadeira",
+      "ok": true,
+      "detail": "modo=seated"
+    },
+    {
+      "name": "Desktop: FortunaOS aparece sobre o monitor",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Telefone: tocou depois do tutorial",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Telefone: E atende a ligação",
+      "ok": true,
+      "detail": "fase=active interlocutor=Dona Cleide Fagundes"
+    },
+    {
+      "name": "Arquivo de Casos: ficha da linha atual abre após a consulta",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Diálogo: ficha aberta libera opções novas (Ficha ou resposta)",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Ligação: termina com um desfecho registrado",
+      "ok": true,
+      "detail": "desfecho=paid (fim)"
+    },
+    {
+      "name": "Dinheiro: pagamento atualiza meta, caixa e comissão juntos",
+      "ok": true,
+      "detail": "arrecadado=260 caixa=260 comissão=31"
+    },
+    {
+      "name": "HUD: indicador da meta mostra o mesmo valor do estado",
+      "ok": true,
+      "detail": "T$ 260 / T$ 900"
+    },
+    {
+      "name": "Pausa: Esc abre o menu de pausa",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Pausa: o relógio do expediente para",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Configurações: volume salvo no navegador",
+      "ok": true,
+      "detail": "masterVolume=0.4"
+    },
+    {
+      "name": "Pausa: Continuar volta ao jogo",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Evento: queda de rede desliga a linha",
+      "ok": true,
+      "detail": "rede=false"
+    },
+    {
+      "name": "Evento: segurar E no armário reinicia a rede",
+      "ok": true,
+      "detail": "rede=true"
+    },
+    {
+      "name": "Evento: vírus bloqueia o Arquivo de Casos",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Evento: fechar os pop-ups limpa o vírus",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Evento: entrar na sala do chefe abre a conversa",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Evento: conversa com o chefe termina e libera o jogo",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Evento: queda de energia apaga a central",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Evento: disjuntor religa a energia",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Risco: exposição alta inicia investigação",
+      "ok": true,
+      "detail": "exposição=62 eventos=investigation"
+    },
+    {
+      "name": "Risco: triturar provas reduz a exposição",
+      "ok": true,
+      "detail": "62 → 39"
+    },
+    {
+      "name": "Fim do expediente: relatório aparece às 18:00",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Loja: compra de melhoria desconta a comissão",
+      "ok": true,
+      "detail": "496 → 406"
+    },
+    {
+      "name": "Salvamento: progresso salvo ao avançar o dia",
+      "ok": true,
+      "detail": "dia salvo=2"
+    },
+    {
+      "name": "Carregamento: título oferece \"Continuar (Dia 2)\"",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Carregamento: campanha retomada no dia 2 com a melhoria comprada",
+      "ok": true,
+      "detail": "dia=2 melhorias=ssd"
+    },
+    {
+      "name": "Progressão: dia 2 começa com meta 2600",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Progressão: dia 3 começa com meta 4200",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Progressão: dia 4 começa com meta 6500",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Progressão: dia 5 começa com meta 8800",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Campanha: final alcançado (\"Sócio\") ao bater todas as metas",
+      "ok": true,
+      "detail": "final=socio"
+    },
+    {
+      "name": "Campanha: salvamento apagado após o final",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Reinício: volta à tela de título",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Derrota: exposição 100% causa batida policial e encerra o dia",
+      "ok": true,
+      "detail": "BATIDA POLICIAL"
+    },
+    {
+      "name": "Desempenho: FPS medido em 1920×1080 (vista ampla do escritório)",
+      "ok": true,
+      "detail": "56 FPS, escala de resolução 0.80, 439 draw calls (ANGLE (AMD, Radeon RX550/550 Series (0x0000699F) Direct3D11 vs_5_0 ps_5_0, D3D11))"
+    },
+    {
+      "name": "Console: nenhum erro de JavaScript",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Rede: nenhuma requisição essencial falhou",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "consoleErrors": [],
+  "failedRequests": []
+}

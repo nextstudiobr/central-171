@@ -1,0 +1,78 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "realSeconds": 486,
+      "stamp": "EXCELENTE",
+      "quota": 900,
+      "collected": 3800,
+      "fines": 0,
+      "bonuses": 225,
+      "calls": 13,
+      "successes": 13,
+      "failures": 0,
+      "missed": 0,
+      "reports": 0,
+      "traces": 0,
+      "heatPeak": 0,
+      "result": "excellent",
+      "events": [
+        "coworker_help"
+      ],
+      "callsAnswered": 13
+    },
+    {
+      "day": 2,
+      "realSeconds": 459,
+      "stamp": "EXCELENTE",
+      "quota": 2300,
+      "collected": 11560,
+      "fines": 0,
+      "bonuses": 750,
+      "calls": 12,
+      "successes": 12,
+      "failures": 0,
+      "missed": 0,
+      "reports": 0,
+      "traces": 0,
+      "heatPeak": 0,
+      "result": "excellent",
+      "events": [
+        "boss_demand",
+        "network_down",
+        "coworker_help",
+        "boss_summon",
+        "juninho_help",
+        "pri_tip"
+      ],
+      "callsAnswered": 12
+    },
+    {
+      "day": 3,
+      "realSeconds": 464,
+      "stamp": "EXCELENTE",
+      "quota": 3800,
+      "collected": 19600,
+      "fines": 0,
+      "bonuses": 1480,
+      "calls": 14,
+      "successes": 12,
+      "failures": 0,
+      "missed": 0,
+      "reports": 0,
+      "traces": 0,
+      "heatPeak": 0,
+      "result": "excellent",
+      "events": [
+        "boss_summon",
+        "hot_lead",
+        "boss_demand",
+        "pri_tip",
+        "mystery_call",
+        "network_down"
+      ],
+      "callsAnswered": 14
+    }
+  ],
+  "errors": []
+}
